@@ -1,3 +1,4 @@
-#Hello friends
-my name is Yan 
+# Github Acount 
+
+Olá meus amigos, este é meu repositorio onde colocarei todos os arquivos da nossa aula.
 
